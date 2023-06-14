@@ -3,13 +3,14 @@ This repository contains the instruction for the RoseBlooming dataset. The RoseB
 The dataset, consisting of overhead images, contains two rose cultivars and was filmed over a period of months.
 
 ## Highlights
-・519 images obtained from actual farms
-・2 classes depend on growth stage: rose_small, rose_large
-・Include 2 rose cultivars
-・provide in coco format
+* 519 images obtained from actual farms
+* 2 classes depend on growth stage: rose_small, rose_large
+* Include 2 rose cultivars
+* provide in coco format
 
 ## Dataset Structure
 RoseBlooming
+```
 ├── train
 │   ├── train_annotations.coco.json
 │   ├── train_{image_id}.jpg
@@ -19,6 +20,7 @@ RoseBlooming
 ├── test
     ├── test_annotations.coco.json
     ├── test_{image_id}.jpg
+```
 
-・RoseBlooming consist of three files {train / valid / test}
-・The .jpg files are the input images, and the .json files contain annotation information.
+* RoseBlooming consist of three files {train / valid / test}
+* The .jpg files are the input images, and the .json files contain annotation information.
