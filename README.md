@@ -1,7 +1,6 @@
 # RoseBlooming-Dataset
 This repository contains the instruction for the RoseBlooming dataset. The RoseBloomingdataset allows for stage-specific flower detection. 
 The dataset, consisting of overhead images, contains two rose cultivars and was filmed over a period of months.
-Non-commercial research purposes only.
 
 ## Highlights
 * 519 images obtained from actual farms
