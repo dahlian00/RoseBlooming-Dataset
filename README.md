@@ -24,3 +24,16 @@ RoseBlooming dataset Google Drive [link](https://drive.google.com/drive/folders/
 
 * RoseBlooming consist of three files {train / valid / test}
 * The .jpg files are the input images, and the .json files contain annotation information.
+
+## Citation
+@article{SHINODA2023100271,  
+title = {RoseTracker: A system for automated rose growth monitoring},   
+journal = {Smart Agricultural Technology},  
+volume = {5},  
+pages = {100271},  
+year = {2023},  
+issn = {2772-3755},  
+doi = {https://doi.org/10.1016/j.atech.2023.100271},  
+url = {https://www.sciencedirect.com/science/article/pii/S2772375523001004},  
+author = {Risa Shinoda and Ko Motoki and Kensho Hara and Hirokatsu Kataoka and Ryohei Nakano and Tetsuya Nakazaki and Ryozo Noguchi},  
+}
