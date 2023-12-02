@@ -3,6 +3,7 @@ This repository contains the instruction for the RoseBlooming dataset. The RoseB
 The dataset, consisting of overhead images, contains two rose cultivars and was filmed over a period of months.
 More details can be found in our paper [RoseTracker: A system for automated rose growth monitoring](https://doi.org/10.1016/j.atech.2023.100271).
 
+<img src="roseblooming.png" src="500px">
 ## Highlights
 * 519 images obtained from actual farms
 * 2 classes depend on growth stage: rose_small, rose_large
